@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/test/static/css/main.dc7979c4.chunk.css",
-    "main.js": "/test/static/js/main.50a50fe9.chunk.js",
-    "main.js.map": "/test/static/js/main.50a50fe9.chunk.js.map",
+    "main.js": "/test/static/js/main.474a959d.chunk.js",
+    "main.js.map": "/test/static/js/main.474a959d.chunk.js.map",
     "runtime-main.js": "/test/static/js/runtime-main.cc383545.js",
     "runtime-main.js.map": "/test/static/js/runtime-main.cc383545.js.map",
     "static/js/2.865fbefb.chunk.js": "/test/static/js/2.865fbefb.chunk.js",
@@ -25,11 +25,11 @@
     "static/media/cancel.140bb64c.svg": "/test/static/media/cancel.140bb64c.svg",
     "static/media/check.534132f2.svg": "/test/static/media/check.534132f2.svg",
     "static/media/entrance.4362b935.svg": "/test/static/media/entrance.4362b935.svg",
-    "static/media/facebook.1df98738.svg": "/test/static/media/facebook.1df98738.svg",
+    "static/media/facebook.5e19df6c.svg": "/test/static/media/facebook.5e19df6c.svg",
     "static/media/geo-object.ccba00f5.svg": "/test/static/media/geo-object.ccba00f5.svg",
     "static/media/green-marker.30aab809.svg": "/test/static/media/green-marker.30aab809.svg",
     "static/media/icon-button.510f85c7.svg": "/test/static/media/icon-button.510f85c7.svg",
-    "static/media/instagram.64771f9c.svg": "/test/static/media/instagram.64771f9c.svg",
+    "static/media/instagram.a062d315.svg": "/test/static/media/instagram.a062d315.svg",
     "static/media/internet.dab33b8c.svg": "/test/static/media/internet.dab33b8c.svg",
     "static/media/location.d2150911.svg": "/test/static/media/location.d2150911.svg",
     "static/media/marker.953d3c77.svg": "/test/static/media/marker.953d3c77.svg",
@@ -43,6 +43,6 @@
     "static/js/runtime-main.cc383545.js",
     "static/js/2.865fbefb.chunk.js",
     "static/css/main.dc7979c4.chunk.css",
-    "static/js/main.50a50fe9.chunk.js"
+    "static/js/main.474a959d.chunk.js"
   ]
 }
