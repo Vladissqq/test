@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/test/static/css/main.dc7979c4.chunk.css",
-    "main.js": "/test/static/js/main.dc798ca8.chunk.js",
-    "main.js.map": "/test/static/js/main.dc798ca8.chunk.js.map",
+    "main.js": "/test/static/js/main.9ccbfe9c.chunk.js",
+    "main.js.map": "/test/static/js/main.9ccbfe9c.chunk.js.map",
     "runtime-main.js": "/test/static/js/runtime-main.fe9e540c.js",
     "runtime-main.js.map": "/test/static/js/runtime-main.fe9e540c.js.map",
     "static/js/2.941b598a.chunk.js": "/test/static/js/2.941b598a.chunk.js",
@@ -28,16 +28,20 @@
     "static/media/entrance.4362b935.svg": "/test/static/media/entrance.4362b935.svg",
     "static/media/facebook.5e19df6c.svg": "/test/static/media/facebook.5e19df6c.svg",
     "static/media/geo-object.ccba00f5.svg": "/test/static/media/geo-object.ccba00f5.svg",
+    "static/media/google.9c3e727e.svg": "/test/static/media/google.9c3e727e.svg",
     "static/media/green-marker.30aab809.svg": "/test/static/media/green-marker.30aab809.svg",
     "static/media/icon-button.510f85c7.svg": "/test/static/media/icon-button.510f85c7.svg",
     "static/media/instagram.a062d315.svg": "/test/static/media/instagram.a062d315.svg",
     "static/media/internet.dab33b8c.svg": "/test/static/media/internet.dab33b8c.svg",
     "static/media/location.d2150911.svg": "/test/static/media/location.d2150911.svg",
     "static/media/myLocation.ff902024.svg": "/test/static/media/myLocation.ff902024.svg",
+    "static/media/osm.3f290348.svg": "/test/static/media/osm.3f290348.svg",
     "static/media/phone.0d461ee9.svg": "/test/static/media/phone.0d461ee9.svg",
     "static/media/rubric.6ae348e4.svg": "/test/static/media/rubric.6ae348e4.svg",
     "static/media/search.7e6201e0.svg": "/test/static/media/search.7e6201e0.svg",
     "static/media/share.4a856fc8.svg": "/test/static/media/share.4a856fc8.svg",
+    "static/media/two-gis-disabled.62eb014c.svg": "/test/static/media/two-gis-disabled.62eb014c.svg",
+    "static/media/waze.42aec150.svg": "/test/static/media/waze.42aec150.svg",
     "static/media/work-time.056843a8.svg": "/test/static/media/work-time.056843a8.svg",
     "static/media/zoom-minus.29cdd6d7.svg": "/test/static/media/zoom-minus.29cdd6d7.svg",
     "static/media/zoom-plus.b4f42d51.svg": "/test/static/media/zoom-plus.b4f42d51.svg"
@@ -46,6 +50,6 @@
     "static/js/runtime-main.fe9e540c.js",
     "static/js/2.941b598a.chunk.js",
     "static/css/main.dc7979c4.chunk.css",
-    "static/js/main.dc798ca8.chunk.js"
+    "static/js/main.9ccbfe9c.chunk.js"
   ]
 }
