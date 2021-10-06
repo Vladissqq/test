@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/test/static/css/main.dc7979c4.chunk.css",
-    "main.js": "/test/static/js/main.fb9205f0.chunk.js",
-    "main.js.map": "/test/static/js/main.fb9205f0.chunk.js.map",
+    "main.js": "/test/static/js/main.a684c16e.chunk.js",
+    "main.js.map": "/test/static/js/main.a684c16e.chunk.js.map",
     "runtime-main.js": "/test/static/js/runtime-main.b682c8a9.js",
     "runtime-main.js.map": "/test/static/js/runtime-main.b682c8a9.js.map",
     "static/js/2.79047105.chunk.js": "/test/static/js/2.79047105.chunk.js",
@@ -24,7 +24,6 @@
     "static/media/buildings-green.d86a6822.svg": "/test/static/media/buildings-green.d86a6822.svg",
     "static/media/burger.e78eec97.svg": "/test/static/media/burger.e78eec97.svg",
     "static/media/cancel.140bb64c.svg": "/test/static/media/cancel.140bb64c.svg",
-    "static/media/check.534132f2.svg": "/test/static/media/check.534132f2.svg",
     "static/media/entrance.4362b935.svg": "/test/static/media/entrance.4362b935.svg",
     "static/media/facebook.5e19df6c.svg": "/test/static/media/facebook.5e19df6c.svg",
     "static/media/geo-object.ccba00f5.svg": "/test/static/media/geo-object.ccba00f5.svg",
@@ -50,6 +49,6 @@
     "static/js/runtime-main.b682c8a9.js",
     "static/js/2.79047105.chunk.js",
     "static/css/main.dc7979c4.chunk.css",
-    "static/js/main.fb9205f0.chunk.js"
+    "static/js/main.a684c16e.chunk.js"
   ]
 }
